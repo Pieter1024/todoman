@@ -30,6 +30,7 @@ import todoman
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinxcontrib.autorun',
     'sphinx.ext.todo',
     'sphinx.ext.viewcode',
 ]
